@@ -30,6 +30,6 @@
  <a href="https://www.facebook.com/Nalisboaa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/nath%C3%A1lia-lisboa-4a6504209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+  ![Snake animation](https://github.com/NaLisboa/NaLisboa/blob/output/github-contribution-grid-snake.svg)
 </div>
   
