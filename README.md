@@ -4,7 +4,6 @@
 
 - 📚 Estudando Dev Full Stack Júnior em Generation Brasil.
 - 😄 Pronomes: Ela/Dela/She
-- 
 
 
 
